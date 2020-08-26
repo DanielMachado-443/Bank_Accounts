@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section11_146_PorposedExercise", "Section11_146_PorposedExercise\Section11_146_PorposedExercise.csproj", "{128924DF-4BB8-45BA-9A52-C013D48752EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{128924DF-4BB8-45BA-9A52-C013D48752EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128924DF-4BB8-45BA-9A52-C013D48752EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128924DF-4BB8-45BA-9A52-C013D48752EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128924DF-4BB8-45BA-9A52-C013D48752EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BA48D50-F36F-4C34-9227-4BF8145C17C0}
+	EndGlobalSection
+EndGlobal
